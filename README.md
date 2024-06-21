@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @FrxstyDev.
 
-- 🌱 Currently learning Python & Java - Kotlin, to expand my programming skills.
-- 👀 I enjoy playing Minecraft and exploring game development.
-- 📫 You can reach me on Discord: frxsty.official for collaboration or just to chat.
+- 🌱 Currently Learning Python & Java - Kotlin, To Expand My Programming Skills.
+- 👀 I Enjoy Playing Video Games & Exploring Game Development.
+- 📫 You Can Reach Me On Discord: frxsty.official For Collaboration Or Just To Chat.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I don't like Java as a programming language, but I'm learning it anyway because I like Minecraft Development.
+- ⚡ Fun fact: I Don't Like Java As A Programming Language, But I'm Learning It Anyway Because I Like Minecraft Development.
