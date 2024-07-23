@@ -7,3 +7,9 @@
 - 📫 You Can Reach Me On Discord: frxsty.official For Collaboration Or Just To Chat.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun Fact: I Don't Like Java As A Programming Language, But I'm Learning It Anyway Because I Like Minecraft Development.
+
+
+- 💼 Current Work: I'am Currently Freelancing And Working On Various Projects.
+  
+
+➡️ Explore my GitHub profile to see my latest projects!
