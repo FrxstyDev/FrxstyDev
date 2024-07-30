@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-### 👋 Hi, I’m @FrxstyDev.
+### 👋 Hi, I’m @FrxstyDev. ( Based On Greece )
 
 - 🌱 Currently Learning Python & Java, To Expand My Programming Skills.
 - 👀 I Enjoy Playing Video Games & Learning New Things.
