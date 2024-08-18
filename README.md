@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm from Greece! I’m passionate about developing and gaming. Currently learning Python and JavaScript to enhance my programming skills. Always eager to connect—feel free to reach out!
+👋 Hi, I'm from Greece! I’m passionate about developing and gaming. Always eager to connect—feel free to reach out!
 
 
 ## 🌐 Socials:
